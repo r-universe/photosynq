@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/photosynq/photosynq-r
-	shallow = true
-	registered = true
